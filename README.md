@@ -3,7 +3,7 @@
 <ul>
 <li>Ivan Bondarenko</li>
 <li>BSCS University of Pittsburgh 2023</li>
-<li>https://www.ivanbond.tech</li>
+<li>https://www.ivanbond.tech (currently in development)</li>
 <li>ivanbonddev@gmail.com</li>
 </ul>
 
