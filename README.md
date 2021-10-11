@@ -8,7 +8,7 @@
   </tr>
 </table>
 
-<p align='center'>I am interested in freelance development. More information available on my site.</p>
+<p align='center'>I am a freelance developer. More information available on my site.</p>
 
 <table align='center'>
 <tr>
