@@ -2,8 +2,8 @@
 
 <table align='center'>
   <tr>
-    <th>BSCS University of Pittsburgh 2023</th>
-    <th>https://ivanbond.tech</th>
+    <th>BSCS University of Pittsburgh 2024</th>
+    <th>https://www.ivanbond.tech</th>
     <th>ivanbonddev@gmail.com</th>
   </tr>
 </table>
