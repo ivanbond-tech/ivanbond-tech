@@ -3,13 +3,14 @@
 <table align='center'>
   <tr>
     <th>BSCS University of Pittsburgh 2024</th>
-    <th>https://www.ivanbond.tech</th>
-    <th>ivanbonddev@gmail.com</th>
+    <th><a href="https://www.ivanbond.tech">www.ivanbond.tech</a></th>
+    <th><a href="mailto:ivanbonddev@gmail.com">ivanbonddev@gmail.com</a></th>
   </tr>
 </table>
 
 <p align='center'>I am a freelance web and software developer. More information will be available on my site.</p>
 
+<!--
 <table align='center'>
 <tr>
 <th>Languages</th>
@@ -66,3 +67,4 @@
 <td>Full Stack Development</td>
 </tr>
 </table>
+-->
