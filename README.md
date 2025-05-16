@@ -1,3 +1,10 @@
+### ivanbond.tech
+
+- Software Engineer @ SIEMENS
+- BSCS University of Pittsburgh, 2024
+- [www.ivanbond.tech](https://www.ivanbond.tech)
+- [ivanbonddev@gmail.com](mailto:ivanbonddev@gmail.com)
+<!--
 <h4 align='center'>🚀 ivanbond.tech</h4>
 
 <table align='center'>
@@ -8,8 +15,8 @@
   </tr>
 </table>
 
-<p align='center'>I am a freelance web and software developer. More information will be available on my site.</p>
-
+<p align='center'></p>
+-->
 <!--
 <table align='center'>
 <tr>
